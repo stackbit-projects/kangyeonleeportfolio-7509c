@@ -6,7 +6,7 @@ sections:
   - title: ''
     section_id: ''
     image_alt: lorem-ipsum
-    content: '[](https://Gangyeon Lee_Resume.html)'
+    content: 'file:///Users/Lee_GangYeon/Desktop/job/Gangyeon%20Lee_Resume.html'
     actions: []
     type: section_content
 template: advanced
