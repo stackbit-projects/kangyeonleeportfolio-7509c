@@ -10,10 +10,16 @@ sections:
     type: section_content
     title: ''
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I am a curious individual, a human observer, a team’s pencil sharpener,
+      and a UI designer.
+
+      I am not a one-woman band, a UI artist, a defensive critiquer, or any kind
+      of egoist.
+
+      I thrive on tackling complex systems and architecture, sweating meaningful
+      details,
+
+      and collaborating with thoughtful makers!
     actions:
       - label: Contact Me
         url: /contact
