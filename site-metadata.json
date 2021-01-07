@@ -21,11 +21,6 @@
                 "style": "link"
             },
             {
-                "label": "EMAIL",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "resume",
                 "url": "/resume",
                 "style": "link",
@@ -33,6 +28,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "EMAIL",
+                "url": "/contact/",
+                "style": "link"
             }
         ],
         "has_social": true,
