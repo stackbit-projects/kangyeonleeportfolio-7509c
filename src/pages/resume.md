@@ -3,7 +3,7 @@ title: Resume
 hide_title: true
 excerpt: Resume
 sections:
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
