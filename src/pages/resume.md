@@ -83,7 +83,14 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     posts_number: 0
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
     type: section_posts
 template: advanced
 ---
