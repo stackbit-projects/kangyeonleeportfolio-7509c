@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Works
 template: blog
 ---
