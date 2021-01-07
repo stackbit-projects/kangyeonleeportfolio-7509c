@@ -6,12 +6,29 @@ img_alt: KL image
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+<color>**TYPE**</color>
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+**MY BACKGRAOUND**
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Web & App Design/Computer Programming
 
-*Thank You for reading!*
+**DESIGN EXPERIENCE**
+
+5 years
+
+**SKILLS**
+
+Adobe Photoshop / Adobe illustrator / Adobe XD / C / C++ / SQL / MySQL / Javascript / HTML5 / CSS / Java / Node.js 
+
+
+>**Kangyeon Lee** is a UI designer from South Korea. 
+
+After graduated from The University with a Bachelor degree in Visual Design in Korea.
+
+I began my web/App/UI design career for five years in web design industry, and I designed web or apps detail of pages, contents and landing pages. 
+
+With every working opportunity, I have been striven to enhance and accept new knowledge to fully experience design's culture.
+
+As a designer, I aspire more figuring out design area and more adopt related working area knwledge, so I went to Canada, and I graduated from The College of Seneca with a deploma in Computer Programming.
