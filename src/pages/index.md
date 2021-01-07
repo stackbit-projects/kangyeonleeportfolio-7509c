@@ -2,6 +2,10 @@
 title: Home
 hide_title: true
 sections:
+  - section_id: hero
+    type: section_hero
+    title: 'Hello, I am Kangyeon Lee!'
+    content: I am a UI Designer and Junior Web Developer
   - section_id: describe_me
     type: section_content
     title: ''
@@ -20,10 +24,6 @@ sections:
       - label: Say hello
         url: /contact
         style: button
-  - section_id: hero
-    type: section_hero
-    title: 'Hello, I am Kangyeon Lee!'
-    content: I am a UI Designer and Junior Web Developer
   - section_id: recent_few_works
     type: section_posts
     title: ''
