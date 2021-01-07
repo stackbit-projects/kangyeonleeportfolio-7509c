@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Nice to meet you-                      This is Kangyeon : )'
 subtitle: ''
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
