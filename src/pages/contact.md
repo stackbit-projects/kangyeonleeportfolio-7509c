@@ -14,7 +14,7 @@ sections:
         default_value: ''
         is_required: true
       - input_type: email
-        name: liame
+        name: me
         label: Email
         default_value: ''
         is_required: true
