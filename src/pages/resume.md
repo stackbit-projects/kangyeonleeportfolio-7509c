@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Resume
 hide_title: true
 excerpt: Resume
 sections: []
