@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hello, I am Kangyeon Lee!'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: I am a UI Designer and Junior Web Developer
   - section_id: about
     type: section_content
     title: About
