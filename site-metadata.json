@@ -1,7 +1,7 @@
 {
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "simple",
-    "palette": "green",
+    "palette": "violet",
     "header": {
         "title": "Stackbit Fresh",
         "tagline": "Header Tagline",
