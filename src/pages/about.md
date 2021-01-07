@@ -7,7 +7,6 @@ template: page
 ---
 
 <color>**TYPE**</color>
-
 Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner
 
 **MY BACKGRAOUND**
