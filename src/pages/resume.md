@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: R
 sections: []
 template: advanced
 ---
