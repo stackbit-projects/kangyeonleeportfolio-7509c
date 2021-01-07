@@ -23,7 +23,7 @@ Web & App Design/Computer Programming
 Adobe Photoshop / Adobe illustrator / Adobe XD / C / C++ / SQL / MySQL / Javascript / HTML5 / CSS / Java / Node.js 
 
 
->**Kangyeon Lee** is a UI designer from South Korea. 
+**Kangyeon Lee** is a UI designer from South Korea. 
 
 After graduated from The University with a Bachelor degree in Visual Design in Korea.
 
