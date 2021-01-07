@@ -28,10 +28,7 @@ sections:
     type: section_posts
     title: ''
     posts_number: 2
-    actions:
-      - label: View Blog
-        url: blog/index.html
-        style: button
+    actions: []
 template: advanced
 excerpt: ''
 ---
