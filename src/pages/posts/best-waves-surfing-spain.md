@@ -5,7 +5,7 @@ excerpt: >-
   Surfing is a surface water sport in which the wave rider, referred to as a
   surfer, rides on the forward or deep face of a moving wave, which is usually
   carrying the surfer towards the shore.
-date: '2017-01-15'
+date: '2014-01-15'
 thumb_img_path: images/4.jpg
 thumb_img_alt: Three person about to surf
 content_img_path: images/4.jpg
