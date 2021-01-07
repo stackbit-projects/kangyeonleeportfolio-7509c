@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hello, I am Kangyeon Lee!'
     content: I am a UI Designer and Junior Web Developer
-  - section_id: describe Me
+  - section_id: describe_me
     type: section_content
     title: ''
     content: >-
