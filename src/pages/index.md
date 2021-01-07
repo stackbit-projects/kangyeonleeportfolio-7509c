@@ -21,7 +21,7 @@ sections:
 
       and collaborating with thoughtful makers!
     actions:
-      - label: Contact Me
+      - label: Say hello
         url: /contact
         style: button
   - section_id: recent-posts
