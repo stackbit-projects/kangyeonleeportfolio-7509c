@@ -6,7 +6,7 @@ img_alt: KL image
 template: page
 ---
 
-<color>**TYPE**</color>
+<color>**TYPE**</color>                
 Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner
 
 **MY BACKGRAOUND**
@@ -22,7 +22,7 @@ Web & App Design/Computer Programming
 Adobe Photoshop / Adobe illustrator / Adobe XD / C / C++ / SQL / MySQL / Javascript / HTML5 / CSS / Java / Node.js 
 
 
-**Kangyeon Lee** is a UI designer from South Korea. 
+**Kangyeon Lee**                is a UI designer from South Korea. 
 
 After graduated from The University with a Bachelor degree in Visual Design in Korea.
 
