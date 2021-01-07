@@ -32,7 +32,7 @@
             },
             {
                 "label": "resume",
-                "url": "lorem-ipsum",
+                "url": "/resume",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
