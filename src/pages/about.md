@@ -9,16 +9,13 @@ template: page
 <color>**TYPE**</color>                
 Passionate Doer / Excellent Time Manager / Critical Thinker / Fast Leaner
 
-**MY BACKGRAOUND**
-
+**MY BACKGRAOUND**    
 Web & App Design/Computer Programming
 
-**DESIGN EXPERIENCE**
-
+**DESIGN EXPERIENCE**    
 5 years
 
-**SKILLS**
-
+**SKILLS**          
 Adobe Photoshop / Adobe illustrator / Adobe XD / C / C++ / SQL / MySQL / Javascript / HTML5 / CSS / Java / Node.js 
 
 
