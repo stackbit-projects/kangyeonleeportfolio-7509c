@@ -28,11 +28,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "EMAIL",
-                "url": "/contact/",
-                "style": "link"
             }
         ],
         "has_social": true,
