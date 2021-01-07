@@ -1,6 +1,6 @@
 ---
 title: Resume
-hide_title: true
+hide_title: false
 excerpt: Resume
 sections: []
 template: advanced
