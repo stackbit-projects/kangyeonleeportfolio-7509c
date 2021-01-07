@@ -30,11 +30,6 @@ sections:
         name: message
         label: Message
         default_value: ''
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
     submit_label: Send message to me!
 template: advanced
 ---
