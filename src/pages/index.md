@@ -24,7 +24,7 @@ sections:
       - label: Say hello
         url: /contact
         style: button
-  - section_id: recent_works
+  - section_id: recent_few_works
     type: section_posts
     title: ''
     posts_number: 4
