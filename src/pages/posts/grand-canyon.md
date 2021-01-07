@@ -10,6 +10,7 @@ thumb_img_alt: Hikers on the trail
 content_img_path: images/8.jpg
 content_img_alt: Hikers on the trail
 template: post
+thumb_img_path: images/thumbnail_06_huvleWebChina.gif
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
