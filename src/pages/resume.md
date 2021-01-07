@@ -9,5 +9,6 @@ sections:
     content: ''
     actions: []
     type: section_content
+    image: images/Gangyeon Lee_Resume.png
 template: advanced
 ---
