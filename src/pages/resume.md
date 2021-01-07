@@ -15,7 +15,7 @@ sections:
 
       - Lorem ipsum
 
-      - dolor sit amet
+      - dolor sit amet[](https://)
     actions: []
     type: section_hero
 template: advanced
