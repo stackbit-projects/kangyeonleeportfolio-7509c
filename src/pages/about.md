@@ -2,7 +2,7 @@
 title: "Nice to meet you-\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ This is Kangyeon : )"
 subtitle: I love design and programming!
 img_path: images/0120.png
-img_alt: K
+img_alt: KL image
 template: page
 ---
 
