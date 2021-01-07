@@ -3,6 +3,11 @@ title: Resume
 hide_title: true
 excerpt: Resume
 sections:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    posts_number: 0
+    actions: []
+    type: section_posts
   - title: ''
     section_id: lorem-ipsum
     content: >-
@@ -80,10 +85,5 @@ sections:
       Bachelor of visual design Baeksuk University, South Korea 2009 – 2012
     actions: []
     type: section_hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    posts_number: 0
-    actions: []
-    type: section_posts
 template: advanced
 ---
