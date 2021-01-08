@@ -1,9 +1,7 @@
 ---
 title: WEB NOVLE VIEWER
 subtitle: ''
-excerpt: >-
-  The m dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. 
+excerpt: ''
 date: '2017-02-10'
 thumb_img_path: images/thumbnail_01_webNovelApp.png
 thumb_img_alt: kyobo web novle
