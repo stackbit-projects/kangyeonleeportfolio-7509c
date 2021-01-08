@@ -6,7 +6,7 @@ excerpt: >-
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 date: '2017-02-10'
 thumb_img_path: images/thumbnail_01_webNovelApp.png
-thumb_img_alt: A motorcycle in a forest
+thumb_img_alt: ''
 content_img_path: images/3.jpg
 content_img_alt: A motorcycle in a forest
 template: post
