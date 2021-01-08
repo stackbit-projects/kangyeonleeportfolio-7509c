@@ -1,6 +1,6 @@
 ---
 title: HEIDI MENUFACTURING SOLUTION SYSTEM
-excerpt: ''
+excerpt: App Application
 date: '2014-01-09'
 thumb_img_path: images/thumbnail_10_HeidiApp.gif
 thumb_img_alt: Hikers on the trail
