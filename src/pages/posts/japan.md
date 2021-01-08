@@ -1,7 +1,7 @@
 ---
 title: HUVLE OFFICIAL WEB
 excerpt: Web Application
-date: '2017-06-01'
+date: '2017-05-01'
 thumb_img_path: images/graceful-primrose.gif
 thumb_img_alt: huvle web
 content_img_path: images/2.jpg
