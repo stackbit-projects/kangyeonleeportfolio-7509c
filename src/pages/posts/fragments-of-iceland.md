@@ -1,6 +1,6 @@
 ---
 title: HUVLE OFFICIAL WEBSITE
-excerpt: Web Application
+excerpt: ''
 date: '2017-06-01'
 thumb_img_path: images/thumbnail_04_adKnovaWeb.png
 thumb_img_alt: Icelandic horses
