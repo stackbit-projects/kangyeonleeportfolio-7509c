@@ -1,7 +1,7 @@
 ---
 title: WEB NOVLE VIEWER
 subtitle: ''
-excerpt: Ww
+excerpt: Web Application
 date: '2014-01-15'
 thumb_img_path: images/thumbnail_02_webNovelWeb_2.png
 thumb_img_alt: 'kyobo web '
