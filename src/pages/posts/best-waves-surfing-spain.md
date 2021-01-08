@@ -1,5 +1,5 @@
 ---
-title: Best Waves - Surfing In Spain
+title: WEB NOVLE VIEWER
 subtitle: A intresting tale about Surfing
 excerpt: >-
   Surfing is a surface water sport in which the wave rider, referred to as a
