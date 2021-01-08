@@ -7,7 +7,7 @@ excerpt: >-
   can visit a village where there is a vast population of foxes.
 date: '2016-10-25'
 thumb_img_path: images/thumbnail_11_HeidiWeb.gif
-thumb_img_alt: A red fox in a rocky forest
+thumb_img_alt: heidi web
 content_img_path: images/5.jpg
 content_img_alt: A red fox in a rocky forest
 template: post
