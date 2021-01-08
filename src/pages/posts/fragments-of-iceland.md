@@ -3,7 +3,7 @@ title: adKnowva OFFICIAL WEB
 excerpt: Web Application
 date: '2017-05-02'
 thumb_img_path: images/thumbnail_04_adKnovaWeb.png
-thumb_img_alt: Icelandic horses
+thumb_img_alt: adKnowva web
 content_img_path: images/7.jpg
 content_img_alt: Icelandic horses
 template: post
