@@ -6,6 +6,7 @@ thumb_img_alt: huvle mobile web site
 content_img_alt: Hikers on the trail
 template: post
 thumb_img_path: images/thumbnail_08_huvleMobile.gif
+content_img_path: images/great-mahogany.png
 ---
 
 Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
