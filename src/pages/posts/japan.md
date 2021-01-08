@@ -1,10 +1,6 @@
 ---
 title: HUVLE OFFICIAL WEBSITE
-excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+excerpt: Web Application
 date: '2017-06-01'
 thumb_img_path: images/graceful-primrose.gif
 thumb_img_alt: huvle web
