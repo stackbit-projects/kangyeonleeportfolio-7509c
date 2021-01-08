@@ -1,5 +1,5 @@
 ---
-title: HEIDI MENUFACTURING SOLUTION System Introducing Website
+title: HEIDI MENUFACTURING SOLUTION SYSTEM Introducing Website
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
