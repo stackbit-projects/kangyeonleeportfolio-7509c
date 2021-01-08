@@ -1,5 +1,5 @@
 ---
-title: DEA-GU GYEONGBUK ENGLISH VILLAGE
+title: DEA-GU GYEONGBUK ENGLISH VILLAGE MOBILE
 subtitle: ''
 date: '2021-01-08'
 thumb_img_alt: lorem-ipsum
