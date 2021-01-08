@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: adKnowva DASHBOARD
 subtitle: lorem-ipsum
 date: '2021-01-07'
 thumb_img_alt: lorem-ipsum
