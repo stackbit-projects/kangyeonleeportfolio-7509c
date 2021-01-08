@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: DEA-GU GYEONGBUK ENGLISH VILLAGE
 subtitle: lorem-ipsum
 date: '2021-01-08'
 thumb_img_alt: lorem-ipsum
