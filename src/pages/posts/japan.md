@@ -1,5 +1,5 @@
 ---
-title: HUVLE OFFICIAL WEBSITE
+title: HUVLE OFFICIAL WEB
 excerpt: Web Application
 date: '2017-06-01'
 thumb_img_path: images/graceful-primrose.gif
