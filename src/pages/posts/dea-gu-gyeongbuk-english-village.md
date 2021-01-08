@@ -4,7 +4,7 @@ subtitle: ''
 date: '2016-03-24'
 thumb_img_alt: dgev mobile
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Mobile Web Application
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/thumbnail_13_dgevMobileWeb.png
