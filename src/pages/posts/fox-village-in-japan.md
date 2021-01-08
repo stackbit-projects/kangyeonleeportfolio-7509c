@@ -1,5 +1,5 @@
 ---
-title: '                       Heidi Menufacturing Solution System Introducing Website'
+title: Heidi Menufacturing Solution System Introducing Website
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
