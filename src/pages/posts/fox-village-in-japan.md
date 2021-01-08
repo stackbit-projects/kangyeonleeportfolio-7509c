@@ -1,6 +1,6 @@
 ---
 title: HEIDI MENUFACTURING SOLUTION SYSTEM INTRODUCING
-subtitle: heidi web
+subtitle: ''
 excerpt: >-
   Miyagi Zao Fox Village, aka Kitsune Mura, is a popular tourist attraction
   situated in Shiroishi, Miyagi it based in the Miyagi Zao mountains. Visitors
