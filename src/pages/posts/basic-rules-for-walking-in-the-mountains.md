@@ -3,7 +3,7 @@ title: HEIDI MENUFACTURING SOLUTION SYSTEM
 excerpt: App Application
 date: '2016-06-03'
 thumb_img_path: images/thumbnail_10_HeidiApp.gif
-thumb_img_alt: Hikers on the trail
+thumb_img_alt: heidi app
 content_img_path: images/6.jpg
 content_img_alt: Hikers on the trail
 template: post
