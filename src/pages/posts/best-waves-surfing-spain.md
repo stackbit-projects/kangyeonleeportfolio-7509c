@@ -2,7 +2,7 @@
 title: WEB NOVLE VIEWER
 subtitle: ''
 excerpt: Web Application
-date: '2016-12-15'
+date: '2016-12-18'
 thumb_img_path: images/thumbnail_02_webNovelWeb_2.png
 thumb_img_alt: 'kyobo web '
 content_img_path: images/4.jpg
