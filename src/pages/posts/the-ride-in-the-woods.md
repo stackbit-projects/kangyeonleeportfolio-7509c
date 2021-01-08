@@ -1,6 +1,6 @@
 ---
 title: WEB NOVLE VIEWER
-subtitle: A cautionary tale about riding
+subtitle: ''
 excerpt: >-
   The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
