@@ -7,7 +7,7 @@ excerpt: >-
   carrying the surfer towards the shore.
 date: '2014-01-15'
 thumb_img_path: images/thumbnail_02_webNovelWeb_2.png
-thumb_img_alt: Three person about to surf
+thumb_img_alt: 'kyobo web '
 content_img_path: images/4.jpg
 content_img_alt: Three person about to surf
 template: post
