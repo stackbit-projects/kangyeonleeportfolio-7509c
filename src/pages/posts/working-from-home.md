@@ -4,7 +4,7 @@ excerpt: Mobile Web Application
 date: '2017-04-03'
 thumb_img_alt: A man sitting at the table
 content_img_path: images/9.jpg
-content_img_alt: huvle web browser
+content_img_alt: huvle browser
 template: post
 thumb_img_path: images/thumbnail_09_huvleBrowser.png
 ---
