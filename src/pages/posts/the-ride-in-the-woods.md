@@ -5,7 +5,7 @@ excerpt: >-
   The Ride In The Woods lorem ipsum dolor sit amet, consectetur adipiscing elit,
   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 date: '2015-06-23'
-thumb_img_path: images/3.jpg
+thumb_img_path: images/thumbnail_01_webNovelApp.png
 thumb_img_alt: A motorcycle in a forest
 content_img_path: images/3.jpg
 content_img_alt: A motorcycle in a forest
