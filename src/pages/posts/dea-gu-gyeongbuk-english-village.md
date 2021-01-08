@@ -1,7 +1,7 @@
 ---
 title: DEA-GU GYEONGBUK ENGLISH VILLAGE MOBILE
 subtitle: ''
-date: '2016-04-08'
+date: '2016-03-24'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
