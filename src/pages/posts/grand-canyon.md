@@ -1,5 +1,5 @@
 ---
-title: 'MOBILE HUVLE OFFICIAL WEBSITE '
+title: MOBILE HUVLE OFFICIAL WEBSITE
 excerpt: Mobile Web Application
 date: '2017-07-20'
 thumb_img_alt: huvle mobile web site
