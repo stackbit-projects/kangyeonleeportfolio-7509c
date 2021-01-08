@@ -1,9 +1,7 @@
 ---
 title: WEB NOVLE VIEWER
 subtitle: ''
-excerpt: >-
-  Surfing is a surface water sport in which the wave rider, referred to as a
-  surfer, rides on the forward or deep face of a moving wave, which is usually 
+excerpt: Ww
 date: '2014-01-15'
 thumb_img_path: images/thumbnail_02_webNovelWeb_2.png
 thumb_img_alt: 'kyobo web '
