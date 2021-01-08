@@ -1,10 +1,6 @@
 ---
 title: HEIDI MENUFACTURING SOLUTION SYSTEM
-excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+excerpt: Hiking can sometimes involv
 date: '2014-01-09'
 thumb_img_path: images/thumbnail_10_HeidiApp.gif
 thumb_img_alt: Hikers on the trail
