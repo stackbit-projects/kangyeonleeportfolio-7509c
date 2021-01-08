@@ -2,7 +2,7 @@
 title: adKnowva DASHBOARD
 subtitle: lorem-ipsum
 date: '2017-06-12'
-thumb_img_alt: beW
+thumb_img_alt: Web Application
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
