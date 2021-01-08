@@ -3,7 +3,6 @@ title: HUVLE OFFICIAL MOBILE
 excerpt: Mobile Web Application
 date: '2017-07-20'
 thumb_img_alt: huvle mobile web site
-content_img_path: images/8.jpg
 content_img_alt: Hikers on the trail
 template: post
 thumb_img_path: images/thumbnail_08_huvleMobile.gif
