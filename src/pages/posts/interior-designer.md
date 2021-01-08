@@ -1,5 +1,5 @@
 ---
-title: DEA-GU GYEONGBUK EGLISH
+title: DEA-GU GYEONGBUK ENGLISH VI
 subtitle: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
