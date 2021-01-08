@@ -3,7 +3,7 @@ title: DEA-GU GYEONGBUK ENGLISH VILLAGE
 subtitle: ''
 excerpt: Web Application
 date: '2016-11-24'
-thumb_img_path: images/thumbnail_14_HansamWeb.jpg
+thumb_img_path: images/thumbnail_03_dgev_web.png
 thumb_img_alt: A wooden table and white chairs
 template: post
 content_img_alt: dgev web
