@@ -3,7 +3,7 @@ title: adKnowva DASHBOARD
 subtitle: ''
 date: '2017-04-15'
 thumb_img_alt: adKnowva dashboard
-content_img_alt: lorem-ipsum
+content_img_alt: ''
 excerpt: Web Application
 canonical_url: ''
 template: post
