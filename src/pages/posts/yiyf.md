@@ -2,7 +2,7 @@
 title: YIYF
 subtitle: lorem-ipsum
 date: '2021-01-11'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: 'yiyf '
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
