@@ -8,6 +8,7 @@ excerpt: Web Application
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: images/thumbnail_04_adKnovaDashboard.png
+content_img_path: images/caring-zebra.png
 ---
 ## Lorem ipsum
 
