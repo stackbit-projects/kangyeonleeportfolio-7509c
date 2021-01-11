@@ -28,7 +28,14 @@ sections:
     type: section_posts
     title: ''
     posts_number: 2
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
 template: advanced
 excerpt: ''
 ---
