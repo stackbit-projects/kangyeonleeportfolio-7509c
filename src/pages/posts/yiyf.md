@@ -7,6 +7,7 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
+thumb_img_path: images/thumbnail_06_huvleWeb.png
 ---
 ## Lorem ipsum
 
