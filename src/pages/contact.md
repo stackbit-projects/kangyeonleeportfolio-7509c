@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: contact-form
     type: section_form
-    content: Keep in touch anytime!
+    content: 'I hope we can keep in touch! '
     form_id: contactForm
     form_action: /thank-you
     form_fields:
