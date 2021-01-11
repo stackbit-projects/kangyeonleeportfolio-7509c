@@ -32,7 +32,7 @@ sections:
       - label: VIEW WORKS
         url: lorem-ipsum
         style: button
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: false
         no_follow: false
         type: action
