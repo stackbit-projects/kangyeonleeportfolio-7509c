@@ -29,7 +29,7 @@ sections:
     title: ''
     posts_number: 2
     actions:
-      - label: lorem-ipsum
+      - label: ''
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
