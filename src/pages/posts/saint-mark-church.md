@@ -1,5 +1,5 @@
 ---
-title: aS
+title: SAINT MARK CHURCH
 subtitle: lorem-ipsum
 date: '2021-01-11'
 thumb_img_alt: lorem-ipsum
