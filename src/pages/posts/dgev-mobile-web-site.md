@@ -1,6 +1,6 @@
 ---
 title: adKnowva DASHBOARD
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2017-04-15'
 thumb_img_alt: adKnowva dashboard
 content_img_alt: lorem-ipsum
