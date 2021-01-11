@@ -30,7 +30,7 @@ sections:
     posts_number: 2
     actions:
       - label: VIEW WORKS
-        url: /works
+        url: /blog
         style: button
         icon_class: ''
         new_window: false
